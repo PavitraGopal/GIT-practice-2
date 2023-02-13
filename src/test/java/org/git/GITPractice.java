@@ -14,4 +14,21 @@ public class GITPractice {
 		System.out.println("test3");
 
 	}
+	
+	private void pen() {
+		System.out.println("pen");
+
+
+	}
+	private void pencil() {
+		System.out.println("pencil");
+
+
+	}
+	private void rubber() {
+		System.out.println("rubber");
+
+
+	}
+
 }
