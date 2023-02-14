@@ -31,12 +31,26 @@ public class GITPractice {
 
 	}
 	
+	private void Mobile() {
+		System.out.println("Mobile");
+
+	}
+	private void laptop() {
+		System.out.println("Lap");
+
+	}
+	
+	private void Tab() {
+		System.out.println("Tab");
+
+	}
 	private void Mom() {
 		System.out.println("Mom");
 
 	}
 private void Dad() {
 	System.out.println("Dad");
+
 
 }
 private void Baby() {
