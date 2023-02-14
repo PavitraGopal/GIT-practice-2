@@ -30,5 +30,17 @@ public class GITPractice {
 
 
 	}
+	
+	private void Mom() {
+		System.out.println("Mom");
 
+	}
+private void Dad() {
+	System.out.println("Dad");
+
+}
+private void Baby() {
+	System.out.println("Baby");
+
+}
 }
